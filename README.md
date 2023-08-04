@@ -18,7 +18,7 @@ Pull requests are welcome :)
 * [2020: 그누보드 문의게시판 XSS by hins13](https://blog.naver.com/hins13/222051551392)
 * [2019: (KVE-2019-1198) 그누보드 1day 분석 Stored XSS by ls-toast](https://ls-toast.tistory.com/56)
 * [2019: (KVE-2019-0050) 그누보드 1day 분석 XSS by 두아람쥐](https://blog.naver.com/jinik9903/221690934997)
-* [2019: (KVE-2019-0828) 그누보드 1day 분석 XSS](https://ls-toast.tistory.com/63)
+* [2019: (KVE-2019-0828) 그누보드 1day 분석 XSS by ls-toast](https://ls-toast.tistory.com/63)
 * [2019: 그누보드 이미지로드 모듈 어드민세션 취득 취약점 by hins13](https://blog.naver.com/hins13/221687517603)
 * [2019: 그누보드 5.021 SQL Injection by hins13](https://blog.naver.com/hins13/221655385583)
 * [2019: 그누보드5 g4_import_run.php 인젝션 by hins13](https://blog.naver.com/hins13/221691843503)
@@ -29,12 +29,12 @@ Pull requests are welcome :)
 * [2017: 그누보드 5.2.9.2 XSS by SilNex](https://blog.silnex.kr/%ea%b7%b8%eb%88%84%eb%b3%b4%eb%93%9c-5-2-9-5-2-9-2-%ec%b7%a8%ec%95%bd%ec%a0%90-%ed%8c%a8%ec%b9%98-%eb%82%b4%ec%9a%a9-%eb%b6%84%ec%84%9d/)
 * [2017: 그누보드 5.2.8 파일삭제 취약점 by SilNex](https://blog.silnex.kr/%ea%b7%b8%eb%88%84%eb%b3%b4%eb%93%9c-5-2-8-%ec%b7%a8%ec%95%bd%ec%a0%90-%ed%8c%a8%ec%b9%98-%eb%82%b4%ec%9a%a9-%eb%b6%84%ec%84%9d/)
 * [2017: 그누보드5 자동 로그인 인증 우회 by adm1nkyj](http://blog.adm1nkyj.kr/2017/06/5.html)
-* [2015: 그누보드 4.34.20 웹셸 삽입](https://kensei.tistory.com/259)
+* [2015: 그누보드 4.34.20 웹셸 삽입 by CHOMAN](https://kensei.tistory.com/259)
 
 ## 영카트 
 * [2021: (KVE-2021-0172,0329,0330) 영카트 1day 분석 SQL Injection by Becoming a Hacker](https://hacksms.tistory.com/32)
 * [2020: (KVE-2020-0200,0202) 영카트 1day 분석 Command Injection1 by Becoming a Hacker](https://hacksms.tistory.com/27)
-* [2020: (KVE-2020-0656) 영카트 1day 분석 Command Injection](https://hacksms.tistory.com/26)
+* [2020: (KVE-2020-0656) 영카트 1day 분석 Command Injection by Becoming a Hacker](https://hacksms.tistory.com/26)
 
 ## XpressEngine
 * [2019: XpressEngine RCE via XSS by 전개봉](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=qhdrn1246&logNo=221448940063)
