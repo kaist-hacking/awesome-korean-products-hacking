@@ -1,5 +1,9 @@
 # Awesome Korean Products Hacking
 
+A collection of links related to Korean products hacking.
+Pull requests are welcome :)
+
+
 ## ipTIME
 * [2023: (KVE-2023-0133) ipTIME AX2004M pre-auth remote code execution by babamba](https://github.com/kaist-hacking/KVE-2023-0133)
 * [2015: 127 ipTIME router models vulnerable to an unauthenticated RCE by sending a crafted DHCP request by Pierre Kim](https://pierrekim.github.io/blog/2015-07-06-127-iptime-router-models-unauthenticated-RCE-with-DHCP.html)
