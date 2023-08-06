@@ -6,6 +6,7 @@ Pull requests are welcome :)
 
 ## ipTIME
 * [2023: (KVE-2023-0133) ipTIME AX2004M pre-auth remote code execution by babamba](https://github.com/kaist-hacking/KVE-2023-0133)
+* [2018: iptime 10.00.2 preauth vulnerability by jinmo123](https://jinmo.github.io/blog/2018/01/29/iptime-preauth-bof.html)
 * [2015: 127 ipTIME router models vulnerable to an unauthenticated RCE by sending a crafted DHCP request by Pierre Kim](https://pierrekim.github.io/blog/2015-07-06-127-iptime-router-models-unauthenticated-RCE-with-DHCP.html)
 * [2015: ipTIME n104r3 vulnerable to CSRF and XSS attacks by Pierre Kim](http://pierrekim.github.io/blog/2015-07-03-iptime-n104r3-vulnerable-to-CSRF-and-XSS-attacks.html)
 * [2015: Exploit Code for ipTIME firmwares < 9.58 RCE with root privileges against 127 router models by Pierre Kim](http://pierrekim.github.io/blog/2015-07-01-poc-with-RCE-against-127-iptime-router-models.html)
