@@ -12,7 +12,7 @@ Pull requests are welcome :)
 * [2015: Exploit Code for ipTIME firmwares < 9.58 RCE with root privileges against 127 router models by Pierre Kim](http://pierrekim.github.io/blog/2015-07-01-poc-with-RCE-against-127-iptime-router-models.html)
 * [2012: ipTIME Q104 인증 우회 by k1rha](https://k1rha.tistory.com/entry/IPTIME-%ED%95%B4%ED%82%B9-%EA%B4%80%EB%A0%A8-%EB%82%B4%EC%9A%A9-1)
 
-### 그누보드
+## 그누보드
 * [2022: 그누보드 Stored XSS 취약점 분석 by blatter95](https://velog.io/@blatter95/gnuboard5-1%EC%9D%BC%EC%B0%A8-KISA-%EC%B7%A8%EC%95%BD%EC%A0%90-%EA%B6%8C%EA%B3%A0%EC%82%AC%ED%95%AD-%EB%B6%84%EC%84%9D)
 * [2021: 그누보드 5.4.1.1 RCE by yelang123](https://ufo.stealien.com/2021-02-08/Gnuboard-RCE)
 * [2020: (KVE-2020-0120) 그누보드 FAQ 취약점 by wpgur](https://wpgur.tistory.com/14)
