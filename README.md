@@ -6,6 +6,7 @@ Pull requests are welcome :)
 
 ## ipTIME
 * [2023: (KVE-2023-0133) ipTIME AX2004M pre-auth remote code execution by babamba](https://github.com/kaist-hacking/KVE-2023-0133)
+* [2018: iptime 10.00.2 preauth vulnerability by jinmo123](https://jinmo.github.io/blog/2018/01/29/iptime-preauth-bof.html)
 * [2015: 127 ipTIME router models vulnerable to an unauthenticated RCE by sending a crafted DHCP request by Pierre Kim](https://pierrekim.github.io/blog/2015-07-06-127-iptime-router-models-unauthenticated-RCE-with-DHCP.html)
 * [2015: ipTIME n104r3 vulnerable to CSRF and XSS attacks by Pierre Kim](http://pierrekim.github.io/blog/2015-07-03-iptime-n104r3-vulnerable-to-CSRF-and-XSS-attacks.html)
 * [2015: Exploit Code for ipTIME firmwares < 9.58 RCE with root privileges against 127 router models by Pierre Kim](http://pierrekim.github.io/blog/2015-07-01-poc-with-RCE-against-127-iptime-router-models.html)
@@ -29,6 +30,7 @@ Pull requests are welcome :)
 * [2017: 그누보드 5.2.9.2 XSS by SilNex](https://blog.silnex.kr/%ea%b7%b8%eb%88%84%eb%b3%b4%eb%93%9c-5-2-9-5-2-9-2-%ec%b7%a8%ec%95%bd%ec%a0%90-%ed%8c%a8%ec%b9%98-%eb%82%b4%ec%9a%a9-%eb%b6%84%ec%84%9d/)
 * [2017: 그누보드 5.2.8 파일삭제 취약점 by SilNex](https://blog.silnex.kr/%ea%b7%b8%eb%88%84%eb%b3%b4%eb%93%9c-5-2-8-%ec%b7%a8%ec%95%bd%ec%a0%90-%ed%8c%a8%ec%b9%98-%eb%82%b4%ec%9a%a9-%eb%b6%84%ec%84%9d/)
 * [2017: 그누보드5 자동 로그인 인증 우회 by adm1nkyj](http://blog.adm1nkyj.kr/2017/06/5.html)
+* [2017: 그누보드5 <5.2.8 검색 컬럼 취약점 by jinmo123](https://jinmo.github.io/blog/2023/08/06/gnuboard-5-search-column-vulnerability.html)
 * [2015: 그누보드 4.34.20 웹셸 삽입 by CHOMAN](https://kensei.tistory.com/259)
 
 ## 영카트 
