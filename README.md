@@ -3,6 +3,9 @@
 A collection of links related to Korean products hacking.
 Pull requests are welcome :)
 
+## KakaoTalk
+* [2024: 1-click Exploit in South Korea's biggest mobile chat app by stulle123](https://stulle123.github.io/posts/kakaotalk-account-takeover/)
+* [2024: Not so Secret: Analysis of KakaoTalk's Secret Chat E2EE Feature by stulle123](https://stulle123.github.io/posts/kakaotalk/secret-chat/)
 
 ## ipTIME
 * [2024: (KVE-2023-5458) ipTIME C200/C200E pre-auth RCE via ONVIF Protocol Heap Buffer Overflow by Xion](https://github.com/kaist-hacking/KVE-2023-5458)
