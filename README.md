@@ -7,6 +7,11 @@ Pull requests are welcome :)
 * [2024: 1-click Exploit in South Korea's biggest mobile chat app by stulle123](https://stulle123.github.io/posts/kakaotalk-account-takeover/)
 * [2024: Not so Secret: Analysis of KakaoTalk's Secret Chat E2EE Feature by stulle123](https://stulle123.github.io/posts/kakaotalk/secret-chat/)
 
+## 한컴 오피스
+* [2014: 한글 2010 SE+ 0x61 tag data parsing integer overflow](./hangul/14-036)
+* [2014: 한글 2010 SE+ XML 템플릿 정수 오버플로우](./hangul/14-062)
+* [2014: 한글 2010 SE+ 문서 이력 관리 정수 오버플로우로 인한 임의 코드 실행](./hangul/14-UNK)
+
 ## ipTIME
 * [2024: (KVE-2023-5458) ipTIME C200/C200E pre-auth RCE via ONVIF Protocol Heap Buffer Overflow by Xion](https://github.com/kaist-hacking/KVE-2023-5458)
 * [2023: (KVE-2023-0133) ipTIME AX2004M pre-auth remote code execution by babamba](https://github.com/kaist-hacking/KVE-2023-0133)
