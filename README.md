@@ -13,6 +13,7 @@ Pull requests are welcome :)
 * [2014: 한글 2010 SE+ 문서 이력 관리 정수 오버플로우로 인한 임의 코드 실행](./hangul/14-UNK)
 
 ## ipTIME
+* [2025: (CVE-2025-55423) 163 ipTIME router models vulnerable to an unauthenticated RCE by manipulated controlURL by pinebudweiser](https://github.com/0x0xxxx/CVE/tree/main/CVE-2025-55423)
 * [2024: (KVE-2023-5458) ipTIME C200/C200E pre-auth RCE via ONVIF Protocol Heap Buffer Overflow by Xion](https://github.com/kaist-hacking/KVE-2023-5458)
 * [2023: (KVE-2023-0133) ipTIME AX2004M pre-auth remote code execution by babamba](https://github.com/kaist-hacking/KVE-2023-0133)
 * [2018: iptime 10.00.2 preauth vulnerability by jinmo123](https://jinmo.github.io/blog/2018/01/29/iptime-preauth-bof.html)
